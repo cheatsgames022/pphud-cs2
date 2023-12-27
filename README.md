@@ -64,7 +64,7 @@ you want to play legally, that is, without showing, I recommend you to use other
 
 [Download HERE][download]
 
-[download]: https://mega.nz/file/S2w1hAgQ#PCOJ0R6tyRvsFSid_Y7TdEO5X_Cig1IyffZ-8nXQuKo
+[download]: https://mega.nz/file/H3AjSCKR#xedpXaOwcfs5s9_vLNWtLTEeSp0as3AfL6th7OJzPvg
 
 **2 -** Using WinRAR, extract **pphud-advanced.zip** to a location of your choice using the password;
 
